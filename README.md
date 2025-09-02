@@ -32,8 +32,11 @@ TensorFlow / Keras for building and training neural networks
 
 ## 📂 Project Structure
 ├── Finalprojectcodefile.ipynb   # Main Jupyter Notebook with full code
+
 ├── bankloandatset.csv           # Dataset
+
 ├── ProjectReport.pdf            # An overleaf project report(documentation)
+
 └── README.md
 
 ## 📊 Dataset
